@@ -1,0 +1,16 @@
+h1 {
+    background-color: #333;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    margin: 2px;
+}
+
+.main_img {
+    margin-left: 510px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
